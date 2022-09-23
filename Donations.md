@@ -6,6 +6,10 @@ You can currently donate through the following.
 
 You can become my patreon at https://www.patreon.com/agnosticapollo.
 
+For one time donation, you can subscribe and the money should be charged immediately from your account and then you can immediately cancel the subscription, If you don't cancel the subscription money is usually charged at start of each month. You can check [patreon upfront billing docs](https://support.patreon.com/hc/en-us/articles/210291283-How-does-charge-upfront-billing-work) for details.
+
+Custom amounts are supported if you don't join a tier. I don't really post there so joining a tier is not necessary, so don't expect posts, but you can surely join to support my work.
+
 
 <!---
 ### Crypto Currency
@@ -18,6 +22,13 @@ You can become my patreon at https://www.patreon.com/agnosticapollo.
 	- On `Tether` network: `1Ehe218XVrXYA4ao9Qfsrc8tYKhvYJ2JgK`
 	- On `Tron (TRX)` network: `TY71H66UyTQyoTohgGCAZecPsuvYoPd5MM`
 -->
+
+
+### Termux Accounts
+
+A lot of my work is for [@termux](https://github.com/termux), so you can donate to termux's [open collective](https://termux.com/en/donate#open-collective) (preferred) or [github sponsors](https://termux.com/en/donate#github-sponsors) account to support the work.
+
+If you are sending money specifically to me, then notify me by email at agnosticapollo@gmail.com or at github so that I can reference it for any expenses filed. But even if you don't do that and I don't get the money, it will be used for termux related expenses or sent to some other termux dev/contributor, which is always helpful.
 
 
 ### Payoneer
