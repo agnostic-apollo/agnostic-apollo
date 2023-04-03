@@ -6,7 +6,7 @@ You can currently donate through the following.
 
 You can become my patreon at https://www.patreon.com/agnosticapollo.
 
-For one time donation, you can subscribe and the money should be charged immediately from your account and then you can immediately cancel the subscription, If you don't cancel the subscription money is usually charged at start of each month. You can check [patreon upfront billing docs](https://support.patreon.com/hc/en-us/articles/210291283-How-does-charge-upfront-billing-work) for details.
+For one time donation, you can subscribe and the money should be charged immediately from your account and then you can immediately cancel the subscription, If you don't cancel the subscription, money will be charged each month on the same date as the one you subscribed. You can check [patreon subscription billing docs](https://support.patreon.com/hc/en-us/articles/8779192853261) for details.
 
 Custom amounts are supported if you don't join a tier. I don't really post there so joining a tier is not necessary, so don't expect posts, but you can surely join to support my work.
 
