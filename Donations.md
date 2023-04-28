@@ -11,19 +11,6 @@ For one time donation, you can subscribe and the money should be charged immedia
 Custom amounts are supported if you don't join a tier. I don't really post there so joining a tier is not necessary, so don't expect posts, but you can surely join to support my work.
 
 
-<!---
-### Crypto Currency
-
-- `Bitcoin (BTC)`: `1JWHWzNTbveE5mR6r4uqYpYPyEkCcLt81R`
-- `Ethereum (ETH)`: `0xc433f12128e90c292dcf1133f730742e67a68013`
-
-- `TetherUS (USDT)`
-	- On `Ethereum (ETH)` network: `0xc433f12128e90c292dcf1133f730742e67a68013`
-	- On `Tether` network: `1Ehe218XVrXYA4ao9Qfsrc8tYKhvYJ2JgK`
-	- On `Tron (TRX)` network: `TY71H66UyTQyoTohgGCAZecPsuvYoPd5MM`
--->
-
-
 ### Termux Accounts
 
 A lot of my work is for [@termux](https://github.com/termux), so you can donate to termux's [open collective](https://termux.com/en/donate#open-collective) (preferred) or [github sponsors](https://termux.com/en/donate#github-sponsors) account to support the work.
