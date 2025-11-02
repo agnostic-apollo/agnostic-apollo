@@ -20,8 +20,7 @@ If you are sending money specifically to me, then notify me by email at agnostic
 
 ### Payoneer
 
-Transfer money to my [Payoneer](https://www.payoneer.com/) account, but only if you have requested a feature for money beforehand in any of my projects, since donations are prohibited by Payoneer. You will need to email me to get deposit account details.
-
+Transfer money to my [Payoneer](https://www.payoneer.com/) account, but only if you have requested a feature for money beforehand in any of my projects, since donations are prohibited by Payoneer. You will need to email me to get deposit account details. Additionally payoneer only allows payments that were sent from business bank accounts, so this can normally only be used by companies. It also requires me revealing my personal identity, so I will only consider this for trustable people and companies who can keep that info private, and for amounts preferably over $1000. Due to these requriements patreon is currently the only viable option for sending money directly to me by individuals, and for smaller amounts.
 
 
 For more info, drop me an email at [`agnosticapollo@gmail.com`](mailto:agnosticapollo@gmail.com).
